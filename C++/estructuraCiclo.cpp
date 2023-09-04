@@ -8,7 +8,7 @@ int main(){
         res = base*ix;
         cout<<ix<<"X"<<base<<"= "<<res<<endl;
     }*/
-    while((edad<18)==false){
+while((edad<18)==false){
         cout<<"Debes de ser mayor de edad!!!"<<endl;
         cout<<"Ingresa nuevamente tu edad: ";
         cin>>edad;
